@@ -1,6 +1,6 @@
 # Tutorial API with GraphQL
 
-This project was made for learning proposes only, all information and steps where made from
+This project was made for learning purposes only, all information and steps were made from
 https://www.twilio.com/blog/graphql-api-python-flask-ariadne
 
 
