@@ -23,7 +23,7 @@ https://www.twilio.com/blog/graphql-api-python-flask-ariadne
 |  field | type  | description |
 |--|--|--|
 |id | int  |unique key from todo|
-|description| str | todo description, ex: "make homework"|
+|description| str | todo description, ex: "do homework"|
 |completed | bool | specify if task was completed or not|
 |due_date | date| date of task creation|
 
