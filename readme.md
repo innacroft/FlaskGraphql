@@ -37,7 +37,7 @@ https://www.twilio.com/blog/graphql-api-python-flask-ariadne
 	(this command depends of OS)
 5. Execute project
 	flask run
-6. Visit Visit [127.0.0.1:5000/graphql](http://127.0.0.1:5000/graphql)
+6. Visit [127.0.0.1:5000/graphql](http://127.0.0.1:5000/graphql)
 
 ### Actions (on GraphQL)
 #### CREATING NEW ITEM
