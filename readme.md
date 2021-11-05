@@ -84,7 +84,7 @@ Getting item with id = 2
 Update item with id = 2, mark as done
 
     mutation markDone {
-      markDone(todoId: "1") {
+      markDone(todoId: "2") {
         success
         errors
         todo { id completed description dueDate }
@@ -96,7 +96,7 @@ Update item with id = 2, mark as done
 Update item with id = 2, mark as done
 
     mutation {
-      deleteTodo(todoId: "1") {
+      deleteTodo(todoId: "2") {
         success
         errors
       }
